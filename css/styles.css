@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Besley", serif;
+  font-size: 1.5rem;
+}
+.keen {
+  color: #3d405b;
+  font-weight: normal;
+}
+.my-skills {
+  font-size: 4vw;
+  font-weight: bolder;
+}
+
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 5vw;
+  margin-top: 0;
+  color: #3d405b;
+}
+
+h2 {
+  color: #11999e;
+  font-family: "Comfortaa", cursive;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Comfortaa", cursive;
+}
+
+p {
+  font-family: "Comfortaa", cursive;
+}
+
+.footer-link {
+  font-size: 2vw;
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #11999e;
+}
+
+.top-container {
+  background-color: #66bfbf;
+  padding-top: 5.3125rem;
+  position: relative;
+  width: 100%;
+}
+.intro {
+  width: 80%;
+  margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
+  font-weight: bold;
+}
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.picture {
+  margin-top: 1.25rem;
+  width: 35%;
+}
+.spacer {
+  margin: 0;
+  border-style: solid;
+  border-top: 5px;
+}
+
+.cycling {
+  width: 25%;
+}
+.painting {
+  width: 35%;
+}
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #11999e;
+  font-family: Courier New;
+  font-size: 19px;
+  font-weight: 600;
+  padding: 9px;
+  background-color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #c8f1f1;
+  border: solid #16bfbf 0;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.skills {
+  width: 50%;
+  margin: auto;
+}
+
+.dots {
+  border-style: dotted;
+  border-top: 10px;
+  border-width: 0.6vw;
+  width: 5vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #3d405b;
+}
+
+.middle-container {
+  background-color: white;
+  font-size: 2vw;
+}
+
+.bottom-container {
+  font-size: 2vw;
+  background-color: #66bfbf;
+  font-family: "Comfortaa", cursive;
+  padding: 1rem 0 1rem;
+}
+
+.top {
+  position: relative;
+  bottom: 1vw;
+  font-size: 2vw;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 3vw;
+  right: 20.5%;
+  width: 12%;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 12vw;
+  left: 20.125%;
+  width: 12%;
+}
+
+.mountain {
+  vertical-align: bottom;
+  width: 50%;
+}
+
+.end {
+  word-spacing: 5px;
+  margin-bottom: 0rem;
+  color: white;
+}
