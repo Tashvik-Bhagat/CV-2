@@ -9,7 +9,7 @@ body {
   font-weight: normal;
 }
 .my-skills {
-  font-size: 4vw;
+  font-size: 5vw;
   font-weight: bolder;
 }
 
@@ -23,6 +23,7 @@ h1 {
 h2 {
   color: #11999e;
   font-family: "Comfortaa", cursive;
+  font-size: 5vw;
 }
 
 h3 {
@@ -74,6 +75,11 @@ a:hover {
   margin: 0;
   border-style: solid;
   border-top: 5px;
+}
+
+.web-d {
+  width: 50%;
+
 }
 
 .cycling {
